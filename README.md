@@ -59,10 +59,7 @@
 
 ## 📫 联系我
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [你的领英链接]
-- 🌐 技术博客: [你的博客地址]
-- 📝 掘金: [你的掘金主页]
+- 📧 Email: 2091879046@qq.com
 
 ## 🎉 个人项目
 
