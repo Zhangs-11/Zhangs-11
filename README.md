@@ -64,8 +64,8 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhangs-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangs-11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.hackclub.dev/api?username=Zhangs-11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Zhangs-11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 ---
