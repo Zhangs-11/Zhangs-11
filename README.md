@@ -64,8 +64,11 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Zhangs-11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Zhangs-11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Zhangs-11&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/26a641/Zhangs-11" width="90%" alt="Contribution Graph"/>
 </p>
 
 ---
