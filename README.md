@@ -84,6 +84,7 @@
   <a href="https://www.zhihu.com/people/zhi-xian-yuan-yang-bu-xian-xian-84-78"><img src="https://img.shields.io/badge/知乎-卡卡罗特学AI-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
   <a href="https://space.bilibili.com/1710554433"><img src="https://img.shields.io/badge/B站-卡卡罗特学AI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/></a>
   <a href="https://juejin.cn/user/59799755827562"><img src="https://img.shields.io/badge/掘金-卡卡罗特学AI-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/></a>
+  <a href="https://x.com/zshuo666"><img src="https://img.shields.io/badge/X-@zshuo666-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:zshuo0828@gmail.com"><img src="https://img.shields.io/badge/Email-zshuo0828@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
