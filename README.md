@@ -30,7 +30,7 @@
 
 | 项目 | 简介 | 亮点 |
 |------|------|------|
-| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 个人 Claude Code Skill 合集 | 公众号写作、一稿多平台分发、AI 日报、简历优化、人生设计等 9 个开箱即用的 Skill，覆盖「写作 → 生图 → 发布」全自动工作流 |
+| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 个人 Claude Code Skill 合集 | 公众号写作、一稿多平台分发、AI 日报、选题助手、简历优化、人生设计等 10 个开箱即用的 Skill，覆盖「选题 → 写作 → 生图 → 发布」全自动工作流 |
 | [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | AI HOT 日报推送机器人 | 每天自动抓取 AI 圈热点，整理成日报推送到飞书群，信息差自动抹平 |
 | [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | 系统结构图生成 Skill | 给一张参考图，按同样的视觉风格自动生成你的项目架构图 |
 
