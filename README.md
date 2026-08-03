@@ -61,18 +61,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zhangs-11&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/26a641/Zhangs-11" width="90%" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 📫 找到我
 
 全网同名「**卡卡罗特学AI**」，在这些地方都能搜到我：
