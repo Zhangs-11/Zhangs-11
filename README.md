@@ -21,7 +21,7 @@
 - 🎓 **26届双非学院本**出身，没有名校光环，一路靠项目和作品说话 —— 学历决定起点，作品决定终点
 - 🏢 **前大厂校招生**，现在全职做 **AI Agent 开发**：多智能体编排、工具调用、上下文工程，每天和 Agent 打交道
 - ✍️ 运营公众号「**卡卡罗特学AI**」：写 Agent 开发实战、AI 行业观察和踩坑记录，把"看懂了"变成"讲明白"
-- 🔧 重度 **Claude Code / Codex** 用户：给自己写 Skill、搭工作流，让 AI 帮我写文章、发日报、画架构图
+- 🔧 重度 **Claude Code / Codex** 用户：给自己写 Skill、搭工作流，让 AI 帮我写文章、做 Review、发日报、画架构图
 - 🌱 信条：**与其焦虑 AI 取代人，不如成为最会用 AI 的那批人**
 
 ---
@@ -30,7 +30,7 @@
 
 | 项目 | 简介 | 亮点 |
 |------|------|------|
-| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 个人 Claude Code Skill 合集 | 公众号写作、一稿多平台分发、AI 日报、选题助手、简历优化、人生设计等 10 个开箱即用的 Skill，覆盖「选题 → 写作 → 生图 → 发布」全自动工作流 |
+| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 中文 Agent Skills 合集 | AI 热点、公众号写作、多平台分发、代码 Review、会议汇报等 17 个开箱即用的 Skill，覆盖内容生产与研发协作工作流 |
 | [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | AI HOT 日报推送机器人 | 每天自动抓取 AI 圈热点，整理成日报推送到飞书群，信息差自动抹平 |
 | [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | 系统结构图生成 Skill | 给一张参考图，按同样的视觉风格自动生成你的项目架构图 |
 
