@@ -31,6 +31,7 @@
 | 项目 | 简介 | 亮点 |
 |------|------|------|
 | [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 中文 Agent Skills 合集 | 重要取舍自动三段钢人、第一性原理与对抗式审查、需求澄清、问题诊断、内容创作和代码 Review 等 22 个开箱即用的 Skill，覆盖可靠决策、内容生产与研发协作工作流 |
+| [**codex-draft-inbox**](https://github.com/Zhangs-11/codex-draft-inbox) | Codex / Claude Code 会话待办 | 用 macOS 菜单栏集中展示运行中、已完成和留有草稿的会话；保留到手动标记“已处理”，避免并行任务被读过后遗忘 |
 | [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | AI HOT 日报推送机器人 | 每天自动抓取 AI 圈热点，整理成日报推送到飞书群，信息差自动抹平 |
 | [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | 系统结构图生成 Skill | 给一张参考图，按同样的视觉风格自动生成你的项目架构图 |
 
