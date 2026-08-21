@@ -1,59 +1,59 @@
-<h1 align="center">你好，我是卡卡罗特 👋</h1>
+<h1 align="center">Hi, I'm Kakarot 👋</h1>
 
 <p align="center">
-  <strong>26届 · 双非学院本 · Agent 开发 · 前大厂校招生</strong>
+  <strong>Class of 2026 · Non-Elite University Background · AI Agent Developer · Former Big Tech Campus Hire</strong>
 </p>
 
 <p align="center">
-  公众号「<strong>卡卡罗特学AI</strong>」，全网同名
+  Creator of <strong>Kakarot AI</strong> (卡卡罗特学AI) on WeChat and across Chinese social platforms
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/公众号-卡卡罗特学AI-07C160?style=flat-square&logo=wechat&logoColor=white" alt="公众号"/>
-  <img src="https://img.shields.io/badge/方向-AI%20Agent-blueviolet?style=flat-square" alt="方向"/>
-  <img src="https://komarev.com/ghpvc/?username=Zhangs-11&style=flat-square&color=orange" alt="访问量"/>
+  <img src="https://img.shields.io/badge/WeChat-Kakarot%20AI-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat: Kakarot AI"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents-blueviolet?style=flat-square" alt="Focus: AI Agents"/>
+  <img src="https://komarev.com/ghpvc/?username=Zhangs-11&style=flat-square&color=orange" alt="Profile views"/>
 </p>
 
 ---
 
-## 🧑‍💻 关于我
+## 🧑‍💻 About Me
 
-- 🎓 **26届双非学院本**出身，没有名校光环，一路靠项目和作品说话 —— 学历决定起点，作品决定终点
-- 🏢 **前大厂校招生**，现在全职做 **AI Agent 开发**：多智能体编排、工具调用、上下文工程，每天和 Agent 打交道
-- ✍️ 运营公众号「**卡卡罗特学AI**」：写 Agent 开发实战、AI 行业观察和踩坑记录，把"看懂了"变成"讲明白"
-- 🔧 重度 **Claude Code / Codex** 用户：给自己写 Skill、搭工作流，让 AI 帮我写文章、做 Review、发日报、画架构图
-- 🌱 信条：**与其焦虑 AI 取代人，不如成为最会用 AI 的那批人**
-
----
-
-## 🚀 代表项目
-
-| 项目 | 简介 | 亮点 |
-|------|------|------|
-| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | 中文 Agent Skills 合集 | 重要取舍自动三段钢人、第一性原理与对抗式审查、需求澄清、问题诊断、内容创作和代码 Review 等 22 个开箱即用的 Skill，覆盖可靠决策、内容生产与研发协作工作流 |
-| [**codex-draft-inbox**](https://github.com/Zhangs-11/codex-draft-inbox) | Codex / Claude Code 会话待办 | 用 macOS 菜单栏集中展示运行中、已完成和留有草稿的会话；保留到手动标记“已处理”，避免并行任务被读过后遗忘 |
-| [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | AI HOT 日报推送机器人 | 每天自动抓取 AI 圈热点，整理成日报推送到飞书群，信息差自动抹平 |
-| [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | 系统结构图生成 Skill | 给一张参考图，按同样的视觉风格自动生成你的项目架构图 |
-
-> 更多实验性项目在仓库列表里，欢迎翻牌 👆
+- 🎓 I'm a **Class of 2026 undergraduate from a non-elite university**. I let projects and products speak for me—your background may shape the starting line, but your work shapes the finish.
+- 🏢 I'm a **former campus hire at a major tech company**, now working full-time on **AI agents**: multi-agent orchestration, tool use, and context engineering.
+- ✍️ I run **Kakarot AI** (卡卡罗特学AI), where I share hands-on agent development, AI industry observations, and lessons learned—turning “I get it” into “I can explain it.”
+- 🔧 I'm a heavy **Claude Code and Codex** user. I build skills and workflows that help me write, review code, publish daily briefings, and create architecture diagrams.
+- 🌱 My belief: **Instead of worrying about AI replacing people, become one of the people who know how to use it best.**
 
 ---
 
-## 🛠️ 技术栈
+## 🚀 Featured Projects
+
+| Project | What It Is | Highlights |
+|---------|------------|------------|
+| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | A Chinese collection of agent skills | 23 ready-to-use skills for reliable decision-making, content creation, and engineering workflows—including steelmanning, first-principles and adversarial review, requirements clarification, diagnosis, writing, and code review |
+| [**codex-draft-inbox**](https://github.com/Zhangs-11/codex-draft-inbox) | A task inbox for Codex and Claude Code sessions | A macOS menu bar app that keeps running, completed, and unsent-draft sessions visible until you explicitly mark them as handled |
+| [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | An AI news bot for Feishu | Automatically collects trending AI news each day, turns it into a concise briefing, and delivers it to a Feishu group |
+| [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | A skill for generating system structure diagrams | Recreates a reference image's visual language for your own project's architecture |
+
+> More experiments are waiting in my repositories 👆
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <strong>Agent & AI：</strong><br>
+  <strong>Agents & AI:</strong><br>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" alt="RAG"/>
   <br><br>
-  <strong>语言 & 框架：</strong><br>
+  <strong>Languages & Frameworks:</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <br><br>
-  <strong>数据 & 基础设施：</strong><br>
+  <strong>Data & Infrastructure:</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -62,21 +62,21 @@
 
 ---
 
-## 📫 找到我
+## 📫 Find Me Online
 
-全网同名「**卡卡罗特学AI**」，在这些地方都能搜到我：
+Search for **Kakarot AI** (卡卡罗特学AI) across Chinese social platforms:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/公众号-卡卡罗特学AI-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="公众号"/>
-  <a href="https://blog.csdn.net/m0_75095618"><img src="https://img.shields.io/badge/CSDN-卡卡罗特学AI-FC5531?style=for-the-badge" alt="CSDN"/></a>
-  <img src="https://img.shields.io/badge/小红书-全网同名-FF2442?style=for-the-badge" alt="小红书"/>
-  <a href="https://www.zhihu.com/people/zhi-xian-yuan-yang-bu-xian-xian-84-78"><img src="https://img.shields.io/badge/知乎-卡卡罗特学AI-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
-  <a href="https://space.bilibili.com/1710554433"><img src="https://img.shields.io/badge/B站-卡卡罗特学AI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"/></a>
-  <a href="https://juejin.cn/user/59799755827562"><img src="https://img.shields.io/badge/掘金-卡卡罗特学AI-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/></a>
+  <img src="https://img.shields.io/badge/WeChat-Kakarot%20AI-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: Kakarot AI"/>
+  <a href="https://blog.csdn.net/m0_75095618"><img src="https://img.shields.io/badge/CSDN-Kakarot%20AI-FC5531?style=for-the-badge" alt="CSDN"/></a>
+  <img src="https://img.shields.io/badge/RedNote-Kakarot%20AI-FF2442?style=for-the-badge" alt="RedNote"/>
+  <a href="https://www.zhihu.com/people/zhi-xian-yuan-yang-bu-xian-xian-84-78"><img src="https://img.shields.io/badge/Zhihu-Kakarot%20AI-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
+  <a href="https://space.bilibili.com/1710554433"><img src="https://img.shields.io/badge/Bilibili-Kakarot%20AI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+  <a href="https://juejin.cn/user/59799755827562"><img src="https://img.shields.io/badge/Juejin-Kakarot%20AI-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"/></a>
   <a href="https://x.com/zshuo666"><img src="https://img.shields.io/badge/X-@zshuo666-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:zshuo0828@gmail.com"><img src="https://img.shields.io/badge/Email-zshuo0828@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <i>⭐ 如果我的项目对你有帮助，点个 Star 就是最好的鼓励</i>
+  <i>⭐ If one of my projects helps you, a Star is the best way to show your support.</i>
 </p>
