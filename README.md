@@ -30,12 +30,24 @@
 
 | Project | What It Is | Highlights |
 |---------|------------|------------|
-| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | A Chinese collection of agent skills | 23 ready-to-use skills for reliable decision-making, content creation, and engineering workflows—including steelmanning, first-principles and adversarial review, requirements clarification, diagnosis, writing, and code review |
-| [**codex-draft-inbox**](https://github.com/Zhangs-11/codex-draft-inbox) | A task inbox for Codex and Claude Code sessions | A macOS menu bar app that keeps running, completed, and unsent-draft sessions visible until you explicitly mark them as handled |
-| [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | An AI news bot for Feishu | Automatically collects trending AI news each day, turns it into a concise briefing, and delivers it to a Feishu group |
-| [**system-structure-diagram-skill**](https://github.com/Zhangs-11/system-structure-diagram-skill) | A skill for generating system structure diagrams | Recreates a reference image's visual language for your own project's architecture |
+| [**codex-draft-inbox**](https://github.com/Zhangs-11/codex-draft-inbox) | A local-first task inbox for Codex and Claude Code | A Python synchronization engine, native SwiftUI menu bar app, Codex/Claude hooks, persistent task state, multilingual UI, and signed universal macOS releases |
+| [**agent-preview**](https://github.com/Zhangs-11/agent-preview) | Agent-native remote preview delivery | A Go CLI plus Codex Skill and Claude Code Plugin that safely exposes finished browser artifacts, verifies public reachability, and falls back between Cloudflare and SSH tunnels |
+| [**zs-skills**](https://github.com/Zhangs-11/zs-skills) | A Chinese Agent Skills engineering system | 23 installable skills with behavioral boundaries, evaluation cases, scripts, references, and automated repository-wide quality checks |
+| [**ai-daily-feishu**](https://github.com/Zhangs-11/ai-daily-feishu) | An AI intelligence automation for Feishu | Scheduled GitHub Actions collect current AI news, build daily and multi-day briefings, and deliver them to Feishu groups without a resident server |
 
-> More experiments are waiting in my repositories 👆
+## 🧩 Selected Agent Skills
+
+The collection is useful as a whole, but these individual skills best represent how I design reusable agent behavior:
+
+| Area | Selected Skills | What They Add |
+|------|-----------------|---------------|
+| Decision quality | [**steelman-before-answer**](https://github.com/Zhangs-11/zs-skills/tree/main/steelman-before-answer) · [**first-principles-adversarial-review**](https://github.com/Zhangs-11/zs-skills/tree/main/first-principles-adversarial-review) | Reconstruct the real problem, strengthen both sides, check facts, and expose only decisions that genuinely belong to the user |
+| Engineering delivery | [**project-aware-coding**](https://github.com/Zhangs-11/zs-skills/tree/main/project-aware-coding) · [**peer-pr-review**](https://github.com/Zhangs-11/zs-skills/tree/main/peer-pr-review) · [**diagnose-and-explain**](https://github.com/Zhangs-11/zs-skills/tree/main/diagnose-and-explain) | Trace real producers and consumers, implement minimal project-consistent changes, diagnose failures, and review the complete diff with a concrete case |
+| Research and learning | [**deep-research**](https://github.com/Zhangs-11/zs-skills/tree/main/deep-research) · [**explain-to-master**](https://github.com/Zhangs-11/zs-skills/tree/main/explain-to-master) | Build source-backed research and turn unfamiliar systems into mental models that survive transfer tests |
+| Content and publishing | [**kakarot-writer**](https://github.com/Zhangs-11/zs-skills/tree/main/kakarot-writer) · [**wechat-publisher**](https://github.com/Zhangs-11/zs-skills/tree/main/wechat-publisher) | Produce evidence-backed long-form content and carry it through validated WeChat draft delivery |
+| System utility | [**storage-analyzer**](https://github.com/Zhangs-11/zs-skills/tree/main/storage-analyzer) | Audit disk usage read-only, classify cleanup risk, and generate an interactive local report before any deletion |
+
+Explore all [**23 installable skills**](https://github.com/Zhangs-11/zs-skills#23-个可安装-skills).
 
 ---
 
