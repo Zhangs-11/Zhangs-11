@@ -89,6 +89,25 @@ Search for **Kakarot AI** (卡卡罗特学AI) across Chinese social platforms:
   <a href="mailto:zshuo0828@gmail.com"><img src="https://img.shields.io/badge/Email-zshuo0828@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+### WeChat
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Personal WeChat</strong><br>
+      <sub>Scan the QR code to connect with me</sub><br><br>
+      <img src="./assets/wechat-qr.jpg" width="240" alt="Kakarot's personal WeChat QR code"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Official%20Account-%E5%8D%A1%E5%8D%A1%E7%BD%97%E7%89%B9%E5%AD%A6AI-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="WeChat official account: 卡卡罗特学AI"/><br><br>
+      <h2>卡卡罗特学AI</h2>
+      <strong>From understanding AI to building with it</strong><br><br>
+      <sub>AI engineering · Large models · MLOps</sub><br><br>
+      <strong>Open WeChat and search<br>“卡卡罗特学AI”</strong>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <i>⭐ If one of my projects helps you, a Star is the best way to show your support.</i>
 </p>
