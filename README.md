@@ -91,7 +91,7 @@ Search for **Kakarot AI** (卡卡罗特学AI) across Chinese social platforms:
 
 ### WeChat
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <strong>Personal WeChat</strong><br>
