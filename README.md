@@ -91,14 +91,14 @@ Search for **Kakarot AI** (卡卡罗特学AI) across Chinese social platforms:
 
 ### WeChat
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="430">
       <strong>Personal WeChat</strong><br>
       <sub>Scan the QR code to connect with me</sub><br><br>
       <img src="./assets/wechat-qr.jpg" width="240" alt="Kakarot's personal WeChat QR code"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="430">
       <img src="https://img.shields.io/badge/Official%20Account-%E5%8D%A1%E5%8D%A1%E7%BD%97%E7%89%B9%E5%AD%A6AI-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white" alt="WeChat official account: 卡卡罗特学AI"/><br><br>
       <h2>卡卡罗特学AI</h2>
       <strong>From understanding AI to building with it</strong><br><br>
